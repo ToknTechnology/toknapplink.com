@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "tokn.client",
+    "sha256_cert_fingerprints":
+    ["25:AB:3C:55:D8:8C:AB:D4:A6:A4:13:CE:B4:1A:E2:74:02:EB:18:D1:AF:F0:ED:CA:06:F7:17:CF:B1:25:A3:DA"]
+  }
+}]
